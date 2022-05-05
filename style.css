@@ -15,7 +15,7 @@ html {
 .two-d:checked,
 .three-a:checked,
 .four-d:checked,
-.five-a:checked {s
+.five-a:checked {
     counter-increment: points;
 }
 
